@@ -1,5 +1,5 @@
 # qrcode_scanner
-It is a qrcode scanner and also qrcode creator. In it we scan the code and match it in the database to see the product availability and the go for Buy now option and we integrate the razorpay method for this.
+It is a QRcode scanner and also QRcode creator.We can scan the code and match it in the database to see the product availability and the go for Buy now option and here I have integrated the razorpay method for payment.
 
 # installaton guide
 1. Create database scanner
@@ -12,5 +12,4 @@ It is a qrcode scanner and also qrcode creator. In it we scan the code and match
 2. Create QrCode
 3. Payment Method Integration
 
-#where we can use this
-1.In your colege project
+
