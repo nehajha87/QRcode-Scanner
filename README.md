@@ -12,4 +12,4 @@ It is a QRcode scanner and also QRcode creator.We can scan the code and match it
 2. Create QrCode
 3. Payment Method Integration
 
-
+Here is the link :- https://qrcode.codingnap.com/
